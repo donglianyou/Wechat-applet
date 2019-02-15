@@ -1,0 +1,17 @@
+{
+  "pages":[
+    "pages/home/home",
+    "pages/detail/detail",
+    "pages/index/index",
+    "pages/search/search",
+    
+    "pages/user/user",
+    "pages/learn/learn"
+],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#eee",
+    "navigationBarTitleText": "今日头条",
+    "navigationBarTextStyle":"black"
+  }
+}
